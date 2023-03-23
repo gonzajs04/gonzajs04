@@ -3,6 +3,8 @@
 Hi! I'm Gonzalo Hernández. I have 19 years old and I'm Software Developer👨‍💻
 I love ❤️ build WEBS that can be useful for most of people. You can see all my knowledge on [my website](https://portafolionew03.000webhostapp.com/)
 
+During my traject like Software Developer I applicated all my knowing like PHP developer on my last project "Cloud"
+
 
 
 - 🔭 I’m currently learning
