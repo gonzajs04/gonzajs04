@@ -1,6 +1,8 @@
-### Here's is my GITHUB 👋
+### Here's is my GITHUB🙀
 
-Hi! I'm Gonzalo Hernández. I have 19 years old and I'm Software Developer👨‍💻
+<h1 align="center">I'm Gonzalo Hernández 👋</h1>
+
+ I have 19 years old and I'm Software Developer👨‍💻
 I love ❤️ build WEBS that can be useful for most of people. You can see all my knowledge on [my website](https://portafolionew03.000webhostapp.com/)
 
 During my traject like Software Developer I applicated all my knowing like PHP developer. 
