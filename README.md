@@ -4,7 +4,10 @@ Hi! I'm Gonzalo Hernández. I have 19 years old and I'm Software Developer👨�
 I love ❤️ build WEBS that can be useful for most of people. You can see all my knowledge on [my website](https://portafolionew03.000webhostapp.com/)
 
 During my traject like Software Developer I applicated all my knowing like PHP developer. 
-On my last project [CloudMovie](https://cloudmoviegh.000webhostapp.com/) I consume data from my own Database and I consume them.
+On my last project [CloudMovie](https://cloudmoviegh.000webhostapp.com/) I consume data from my own Database (MYSQL like database manager).
+
+It has an Administration panel, where you can make your CRUD with any movie you want.
+
 If you want to know more, check my repository "CloudMovie"
 
 - 🔭 I’m currently learning
