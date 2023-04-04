@@ -24,14 +24,33 @@ If you want to know more, check my repository "CloudMovie"
 
 ![stackover2](https://user-images.githubusercontent.com/53839800/227366165-12898bdf-4745-4885-a7d9-315226808b39.png)
 
-- ? What i know
-PHP SCSS
+- What I know on Web Development?
 
-- 💬 Ask me about ...
+![html-5](https://user-images.githubusercontent.com/53839800/229894418-77b72548-8876-4cb0-8319-ef570d8a563a.png)
+![css-3](https://user-images.githubusercontent.com/53839800/229892867-ce29ec30-3e09-4df8-8d48-02ac8c7f4f01.png)
+![sass](https://user-images.githubusercontent.com/53839800/229893103-0190dd63-f652-474c-b1de-3090e1522bca.png)
+![js](https://user-images.githubusercontent.com/53839800/229893583-500bfe7c-145f-4254-a0f9-cc76c8e0068f.png)
+![php](https://user-images.githubusercontent.com/53839800/229892265-b72a844f-5df7-4ab4-add5-dd4e6778cfd2.png)
+![mysql](https://user-images.githubusercontent.com/53839800/229894061-266d3cf1-6ddc-40b4-94f4-ef2c5c0a2260.png)
+
+- Version Control System
+
+![git](https://user-images.githubusercontent.com/53839800/229896026-32d03d08-9ba1-43a6-a143-b717e7389f10.png)
+
+-Package Manager
+
+![composer](https://user-images.githubusercontent.com/53839800/229896520-10302765-4cec-4332-a4ff-2802563b935f.png)
+![npm-logo](https://user-images.githubusercontent.com/53839800/229897189-24499a4e-5b59-4081-8588-9fd252c2b274.png)
+
+
+- 💬 Ask me about: What other languajes I know?
+A short answer could be: Java, VB.net, C++, etc..
+These are some examples so.. you can ask me what else if you want to meet me more.
 - 📫 How to reach me: You can reach me on hernandezgonzalo584@gmail.com
 - 😄 Pronouns: Gonza
 - ⚡ Fun fact:  I love work and learn, but, nobody calls me HAHAHAH(?
 
 ## Maybe you want to get in here, or not?
+
 💼https://www.linkedin.com/in/gonza-hernandez/
 
