@@ -3,6 +3,7 @@
 <h1 align="center">I'm Gonzalo Hernández 👋</h1>
 
  I have 19 years old and I'm Web Developer👨‍💻
+I'm studying computer engineering at university 🏫
 I love ❤️ build WEBS that can be useful for most of people. You can see all my knowledge on [my website](https://portafolionew03.000webhostapp.com/)
 
 During my traject like Software Developer I applicated all my knowing like PHP developer. 
@@ -23,7 +24,8 @@ If you want to know more, check my repository "CloudMovie"
 
 ![stackover2](https://user-images.githubusercontent.com/53839800/227366165-12898bdf-4745-4885-a7d9-315226808b39.png)
 
-
+- ? What i know
+PHP SCSS
 
 - 💬 Ask me about ...
 - 📫 How to reach me: You can reach me on hernandezgonzalo584@gmail.com
