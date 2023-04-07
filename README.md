@@ -34,13 +34,15 @@ If you want to know more, check my repository "CloudMovie"
 
 ![js](https://user-images.githubusercontent.com/53839800/229893583-500bfe7c-145f-4254-a0f9-cc76c8e0068f.png)
 
+
 ![php](https://user-images.githubusercontent.com/53839800/229892265-b72a844f-5df7-4ab4-add5-dd4e6778cfd2.png)
+![logo node](https://user-images.githubusercontent.com/53839800/230534314-b72f89e0-a862-4176-925a-3adc712a7638.png)
+
 
 ![mysql](https://user-images.githubusercontent.com/53839800/229894061-266d3cf1-6ddc-40b4-94f4-ef2c5c0a2260.png)
 
 
 ![logo gulp](https://user-images.githubusercontent.com/53839800/230533522-6656ad3e-5473-4eef-8006-f5741cff5259.png)
-
 
 
 
@@ -59,7 +61,7 @@ A short answer could be: Java, VB.net, C++, etc..
 These are some examples so.. you can ask me what else if you want to meet me more.
 - 📫 How to reach me: You can reach me on hernandezgonzalo584@gmail.com
 - 😄 Pronouns: Gonza
-- ⚡ Fun fact:  I love work and learn, but, nobody calls me HAHAHAH(?
+- ⚡ Fun fact:  I love work and learn, the university is not fun at all HAHA(?
 
 ## Maybe you want to get in here, or not?
 
