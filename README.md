@@ -29,9 +29,20 @@ If you want to know more, check my repository "CloudMovie"
 ![html-5](https://user-images.githubusercontent.com/53839800/229894418-77b72548-8876-4cb0-8319-ef570d8a563a.png)
 ![css-3](https://user-images.githubusercontent.com/53839800/229892867-ce29ec30-3e09-4df8-8d48-02ac8c7f4f01.png)
 ![sass](https://user-images.githubusercontent.com/53839800/229893103-0190dd63-f652-474c-b1de-3090e1522bca.png)
+![logo bootstrap](https://user-images.githubusercontent.com/53839800/230533860-46843c1f-2a6e-4aaf-9035-3dc90e75c415.png)
+
+
 ![js](https://user-images.githubusercontent.com/53839800/229893583-500bfe7c-145f-4254-a0f9-cc76c8e0068f.png)
+
 ![php](https://user-images.githubusercontent.com/53839800/229892265-b72a844f-5df7-4ab4-add5-dd4e6778cfd2.png)
+
 ![mysql](https://user-images.githubusercontent.com/53839800/229894061-266d3cf1-6ddc-40b4-94f4-ef2c5c0a2260.png)
+
+
+![logo gulp](https://user-images.githubusercontent.com/53839800/230533522-6656ad3e-5473-4eef-8006-f5741cff5259.png)
+
+
+
 
 - Version Control System
 
